@@ -15,6 +15,5 @@ func main() {
 		fmt.Printf("%d has one digit\n", number)
 	} else {
 		fmt.Printf("%d has multiple digits\n", number)
-
 	}
 }
